@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>RPPuzzle Library.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>RPPuzzle.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>RPPuzzleLibTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>A1DF09B41A50751100FD1C6C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A1DF09CD1A50751100FD1C6C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A1E3A30E1A52260E00C841DA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A1E3A3181A52260F00C841DA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A1E3A3291A52264C00C841DA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A1E3A3331A52264D00C841DA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
